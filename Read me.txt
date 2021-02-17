@@ -1,0 +1,6 @@
+1. open the file "HOME.html" to see the web design.
+2. click on the link "WORKOUT" to see the types of your workout plan.
+3. click on the given links on "WORKOUT.html" as you like.
+4. change your plan by simply visiting "WORKOUT.html".
+4. then you will have your workout plan.
+5. for further explanation visit "CONTACT.html".
